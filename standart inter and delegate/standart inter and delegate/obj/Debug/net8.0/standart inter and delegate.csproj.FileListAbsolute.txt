@@ -1,0 +1,14 @@
+C:\Users\shaki\source\repos\standart inter and delegate\standart inter and delegate\bin\Debug\net8.0\standart inter and delegate.exe
+C:\Users\shaki\source\repos\standart inter and delegate\standart inter and delegate\bin\Debug\net8.0\standart inter and delegate.deps.json
+C:\Users\shaki\source\repos\standart inter and delegate\standart inter and delegate\bin\Debug\net8.0\standart inter and delegate.runtimeconfig.json
+C:\Users\shaki\source\repos\standart inter and delegate\standart inter and delegate\bin\Debug\net8.0\standart inter and delegate.dll
+C:\Users\shaki\source\repos\standart inter and delegate\standart inter and delegate\bin\Debug\net8.0\standart inter and delegate.pdb
+C:\Users\shaki\source\repos\standart inter and delegate\standart inter and delegate\obj\Debug\net8.0\standart inter and delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaki\source\repos\standart inter and delegate\standart inter and delegate\obj\Debug\net8.0\standart inter and delegate.AssemblyInfoInputs.cache
+C:\Users\shaki\source\repos\standart inter and delegate\standart inter and delegate\obj\Debug\net8.0\standart inter and delegate.AssemblyInfo.cs
+C:\Users\shaki\source\repos\standart inter and delegate\standart inter and delegate\obj\Debug\net8.0\standart inter and delegate.csproj.CoreCompileInputs.cache
+C:\Users\shaki\source\repos\standart inter and delegate\standart inter and delegate\obj\Debug\net8.0\standart inter and delegate.dll
+C:\Users\shaki\source\repos\standart inter and delegate\standart inter and delegate\obj\Debug\net8.0\refint\standart inter and delegate.dll
+C:\Users\shaki\source\repos\standart inter and delegate\standart inter and delegate\obj\Debug\net8.0\standart inter and delegate.pdb
+C:\Users\shaki\source\repos\standart inter and delegate\standart inter and delegate\obj\Debug\net8.0\standart inter and delegate.genruntimeconfig.cache
+C:\Users\shaki\source\repos\standart inter and delegate\standart inter and delegate\obj\Debug\net8.0\ref\standart inter and delegate.dll
